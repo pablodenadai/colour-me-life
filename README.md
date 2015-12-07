@@ -45,5 +45,3 @@ colourMeLife.setNumberRange(minNumber, maxNumber);
 ```
 
 Sets the number range of the Rainbow object. By default, it is 0 to 100.
-
-> Inspired by [RainbowVis-JS](https://github.com/anomal/RainbowVis-JS/)
