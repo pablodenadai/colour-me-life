@@ -1,0 +1,21 @@
+{
+  "name": "colour-me-life",
+  "version": "0.0.1",
+  "description": "NodeJS colour gradient helper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghpabs/colour-me-life.git"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "gradient"
+  ],
+  "author": "Pabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghpabs/colour-me-life/issues"
+  },
+  "homepage": "https://github.com/ghpabs/colour-me-life"
+}
