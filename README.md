@@ -3,7 +3,7 @@
 > A JavaScript library for colour data visualization. 
 > Easily map numbers to a smooth-transitioning colour legend.
 
-This class by default maps the range 0 to 100 (inclusive) to the colours of the rainbow (i.e. a gradient transitioning from red to yellow to lime to blue).
+<img src="http://i.imgur.com/UmaCjBY.jpg" width=300>
 
 ## Usage
 
@@ -18,7 +18,7 @@ gradient
 gradient.colourAt(13); // => hex
 ```
 
-Create new instance. By default, the number range is from 0 to 100, and the spectrum is a rainbow.
+Note: This class by **default** maps the range 0 to 100 (inclusive) to the colours of the rainbow (i.e. a gradient transitioning from red to yellow to lime to blue).
 
 ## Methods
 
