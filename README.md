@@ -1,4 +1,4 @@
-# Colour Me Life.
+# Colour Me Life
 
 A JavaScript library for colour data visualization. Easily map numbers to a smooth-transitioning colour legend.
 
